@@ -1,0 +1,10 @@
+transformers
+datasets
+torch
+scikit-learn
+rouge-score
+evaluate
+tqdm
+py7zr
+rouge-score
+accelerate
