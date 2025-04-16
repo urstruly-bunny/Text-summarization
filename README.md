@@ -22,7 +22,7 @@ A modular text summarization project using Hugging Face's Transformer models. It
 ### 1. 🚀 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/text-summarization-project.git
+git clone https://https://github.com/urstruly-bunny/Text-summarization.git
 cd text-summarization-project
 ```
 
